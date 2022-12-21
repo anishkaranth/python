@@ -1,2 +1,2 @@
 ## Python
-coding done from the from assignment done from FunWithProgramming
+coding assignment done using the website FunWithProgramming
